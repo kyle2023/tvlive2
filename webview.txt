@@ -3472,9 +3472,6 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 榆林综合,http://hplayer1.juyun.tv/camera/140908134.m3u8
 榆林文化旅游,http://hplayer1.juyun.tv/camera/140909190.m3u8
 铜川综合,webview://https://www.tcsrm.cn/tvradio/tczhpd.html
-铜川公共,webview://https://www.tcsrm.cn/tvradio/tcggpd.html
-铜川综合,webview://http://ews.joyhua.cn/tvradio/tczh.html
-铜川公共,webview://http://ews.joyhua.cn/tvradio/tcgg.html
 咸阳综合,webview://https://www.sxxynews.com.cn/tvradio/xyzhpd.html
 咸阳综合,webview://https://kanxianyang.com//a/b/e/live_wap_72928.html?site=53&color=D3283D
 西安新闻综合,webview://https://v.xiancity.cn/folder8/folder39/folder29/
@@ -4652,9 +4649,8 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 新疆体育健康,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=21
 新疆少儿,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=23
 
-乌鲁木齐综合,webview://https://hsynew.hongshannet.cn/application/tvradio/h5/detail.html?type=tv
-乌鲁木齐综合,webview://https://hsynew.hongshannet.cn/application/tvradio/h5/detail.html?type=tv&id=17
-乌鲁木齐维语综合,webview://https://hsynew.hongshannet.cn/application/tvradio/h5/detail.html?type=tv&id=21
+乌鲁木齐综合,webview://https://info.hongshannet.cn/h5/live?live_id=28
+乌鲁木齐维语综合,webview://https://info.hongshannet.cn/h5/live?live_id=29
 
 昌吉综合,webview://http://www.cjxww.cn/sy/kds/
 昌吉综合,http://play.xjbzrk.com/live/cjzh.m3u8
