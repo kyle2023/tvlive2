@@ -2141,6 +2141,8 @@ $石家庄
 无锡经济,https://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=af4e6d4b1753167570
 无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8
 无锡移动电视,https://m.m3u8.wifiwx.com/live/wifiwx-494.m3u8
+江阴新闻综合,http://play.ijiangyin.com/xinwen/fszgdgbsjkuicb.m3u8
+江阴新闻综合,http://play.ijiangyin.com/xinwen/fszgdgbsjkuicb.flv
 江阴新闻综合,http://221.228.70.101:8080/live/xinwen.m3u8
 江阴新闻综合,https://litchi-play-encrypted.jstv.com:443/live/jiangyin.m3u8?txSecret=8eb2b403356d1449789d0b419aec5d3a&txTime=1757381942
 宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
@@ -2155,7 +2157,6 @@ $石家庄
 徐州经济生活,https://pull.nicewifi.cn/live/xztv02.m3u8
 徐州文艺影视,https://pull.nicewifi.cn/live/xztv03.m3u8
 徐州新闻综合,https://pull.nicewifi.cn/live/xztv04.m3u8
-
 徐州新闻综合,webview://https://www.huaihai.tv/wltv/live/xwzh?channel_id=49
 徐州经济生活,webview://https://www.huaihai.tv/wltv/live/xwzh?channel_id=47
 徐州文艺影视,webview://https://www.huaihai.tv/wltv/live/xwzh?channel_id=48
@@ -2808,7 +2809,6 @@ $石家庄
 闽侯综合,webview://https://web.guangdianyun.tv/tv/?id=2068&uin=2656
 闽侯综合,webview://https://web.guangdianyun.tv/tv/?id=2179&uin=2656
 闽侯综合,webview://https://web.guangdianyun.tv/tv/?id=2577&uin=2656
-
 德化综合,webview://http://www.cidudehua.net/m/view.php?aid=1175
 德化综合,webview://https://web.guangdianyun.tv/tv/?id=2467&uin=3164
 德化综合,https://play.cmptp.fjgdwl.com/live/63a563ec75764af588f3215b0afa2588.m3u8
@@ -2818,7 +2818,6 @@ $石家庄
 石狮综合,webview://https://h5-new.chinashishi.net/front-cloudlive-manage-h5/index.html?id=662611405685436416&company_id=492
 石狮综合,webview://https://web.guangdianyun.tv/tv/?id=3863&uin=4206
 永春综合,webview://https://web.guangdianyun.tv/tv/1792?uin=2311
-CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 晋江综合,webview://https://www.ijjnews.com/folder5356/
 晋江综合,https://live.ijjnews.com/jjtv/sd/live.m3u8
 晋江综合,webview://https://h5.ijjnews.com/front-cloudlive-manage-h5/index.html?id=657527900022525952&company_id=1067#/
@@ -2840,14 +2839,6 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 安徽公共,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=4
 安徽农业科教,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=5
 安徽移动电视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=7
-安徽卫视,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=47
-安徽经济生活,webview,video://https://h5.ahtv.cn/folder9000/folder20193?channel_id=71
-安徽综艺体育,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=73
-安徽影视,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=72
-安徽公共,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=50
-安徽农业科教,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=51
-安徽国际,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=70
-安徽移动电视,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=68
 安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
 淮北新闻综合,webview://https://www.hbnews.net/tv/
 淮北新闻综合,https://vms-x.hbnews.net/video/xwzh/index.m3u8
@@ -2925,10 +2916,8 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 涡阳新闻综合,webview://https://gyrmedit.ahwanyun.cn/h5/h5app/#/pages/commonPage/commonPage?plateId=2&appId=233
 阜阳新闻综合,webview://https://web.guangdianyun.tv/tv/?id=2851&uin=2577
 阜阳生活,webview://https://web.guangdianyun.tv/tv/?id=2853&uin=2577
-阜阳都市文艺,webview://https://web.guangdianyun.tv/tv/?id=2854&uin=2577
 阜阳新闻综合,https://41007-live.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2851.m3u8?auth_key=1770870673-0-0-5b444a4a3ccf63e05f6bedd2b79553c5&extra_key=rBYmoasFl1MGKyL8aN-EKOxIqJZKUeF2N8Wy67X15U7Mn4rXBDpzouFUp5qy0yST3F7rjuJykzlDwHMItnql6e1rg4V8qwa_EMVLQd9sk1WWKU7TKFfZ5laQSkZ4vyx68KeuevXk4XO_f8g6hwNqo-obFO7n5vQGCJzNsbiMAfU
 阜阳生活,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2853.m3u8?auth_key=4835990486-0-0-dcdb6cc0aee871a664044ee7a3e83308&extra_key=jiEx28IYtuWJ1_w9kBTIOKIb4qAj8AdUpC907-3A-1heP_ZkcC9shKy2LFM4R9AiQLgQILrQJL1arILWCMAAizwLLRfZ5JckaokxNmuSv2KZs6SyYxsEki45eCNOFysmPiq_XKQRYYjgnOQiBte9knM20QVSjr7_kfGY0ZMQJoKWXhwFqOC7MaahYRl6X9Bv
-阜阳都市文艺,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2854.m3u8?auth_key=4835990545-0-0-80a02249988a1cd7a605401bb3a97442&extra_key=ohSJKJdeEa3QQlgmBxpudi6ezxha2e0nc6NZj3SHRORmaEFCgqd6yS2lGW3j-QQf56tTLDfQMDwAAnYcmDicXDRhX7-vqQx3Y2n2ERhE5FWfT3X--ob2iuEq3JtYdHC_ndaPCeOBQdXbH--HpXp2yu84RkSRTHg6mejJ52Qu7did-D4rWp9iydThnLbjeQ_1
 阜南新闻综合,webview://https://web.guangdianyun.tv/tv/3216?uin=1469
 阜南新闻综合,https://zhfn.fnxnews.cn:84/fnxwzh/playlist.m3u8
 阜南新闻综合,http://xhmm-new-live.media.xinhuamm.net/liveNoRecord/a42bf9ee9c224a44a393aafc33990c78_111ae5a842ff4b32ab277ed1d9e216c5.m3u8?auth_key=2017017629-3866c768f70a4b47a2352f7b746e7bc1-0-1470ba4cbd641cbe479da8838d3396da
