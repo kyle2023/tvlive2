@@ -4108,11 +4108,11 @@ $石家庄
 达州文化生活,webview://https://www.dzrm.cn/cms/tv/13560089?
 达州通川,webview://https://www.dzrm.cn/cms/tv/13559838?
 达州新闻综合,http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
-达州新闻综合,https://m3u8channel.dzrm.cn/nmip-media/channellive/channel104234/playlist.m3u8
 达州文化生活,http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
-达州文化生活,https://m3u8channel.dzrm.cn/nmip-media/channellive/channel104727/playlist.m3u8
 达州通川,http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
-达州通川,https://m3u8channel.dzrm.cn/nmip-media/channellive/channel105011/playlist.m3u8
+达州新闻综合,https://file.dzrm.cn/nmip-media/channellive/channel104234/playlist.m3u8
+达州文化生活,https://file.dzrm.cn/nmip-media/channellive/channel104727/playlist.m3u8
+达州通川,https://file.dzrm.cn/nmip-media/channellive/channel105011/playlist.m3u8
 达川新闻综合,webview://https://rmt-wap.dachuan.org.cn/live_casting.html?news_id=30981&version=new&userId=not_login
 达川新闻综合,https://livepull.dachuan.org.cn/dcgc/dcgc1744593119.m3u8
 大竹新闻综合,webview://https://www.dazhutv.com/detail.html?id=18&loc=%E7%94%B5%E8%A7%86%E9%A2%91%E9%81%93&isLiveChannel=1
